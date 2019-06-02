@@ -1,0 +1,15 @@
+{
+  "name": "one-route-arc",
+  "version": "1.0.0",
+  "description": "A single route Arc app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanblock/one-route-arc.git"
+  },
+  "dependencies": {
+    "@architect/architect": "^5.9.2"
+  }
+}
