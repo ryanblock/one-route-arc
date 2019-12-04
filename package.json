@@ -9,7 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/ryanblock/one-route-arc.git"
   },
-  "dependencies": {
-    "@architect/architect": "^5.9.2"
+  "dependencies": {},
+  "devDependencies": {
+    "@architect/sandbox": "^1.4.17"
   }
 }
